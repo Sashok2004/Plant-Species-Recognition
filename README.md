@@ -1,2 +1,14 @@
-# Plant-Species-Recognition
-Neural network project for plant species recognition.
+# Plant Species Recognition
+
+Тема проекта: Распознавание видов растений.
+
+Цель проекта:
+Создание модели машинного обучения для определения вида растения по изображению.
+
+Инструменты:
+- Python
+- Google Colab
+- GitHub
+- TensorFlow (планируется)
+
+Автор: Александр Обийко
