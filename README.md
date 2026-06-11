@@ -9,6 +9,5 @@
 - Python
 - Google Colab
 - GitHub
-- TensorFlow (планируется)
 
 Автор: Александр Обийко
