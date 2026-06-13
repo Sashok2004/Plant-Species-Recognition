@@ -1,0 +1,16 @@
+# Виртуальное окружение
+venv/
+env/
+.env
+
+# Python кэш
+__pycache__/
+*.pyc
+
+# Игнорируем тяжелые веса моделей (если они больше 100 МБ)
+dataset/images/
+dataset/labels/
+*.pt
+*.onnx
+
+runs/
