@@ -1,0 +1,9 @@
+# Пути к папкам
+train: dataset/images/train
+val: dataset/images/val
+
+# Количество классов
+nc: 2
+
+# Названия классов (0 - культура, 1 - сорняк)
+names: ['crop', 'weed']
